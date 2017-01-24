@@ -1,0 +1,37 @@
+		CHANGELOG
+
+		Version 0.1 Alpha
+-Test version implemented;
+-Coding redability improved;
+-Error handling dramatically improved;
+-Exit button q now works properly;
+-Remainder operation now supported;
+
+		Version 0.2 Alpha
+-Sine and cosine functions implemented;
+-Factorial function implemented;
+-Variables implemented, including constants like pi and e;
+	
+	hotfix 0.2.1
+-Fixed a bug where exponencials of negative numbers would give a wrong result;
+-Fixed a bug where factorials of negative numbers would give a wrong result;
+
+		Version 0.3 Alpha
+-Command's support added (\patchnotes and \help available);
+-Visual noise at the start of the program dramatically reduced;
+
+	version 0.3.1
+-Preparing for beta!
+-Newline now works properly as expression delimiter;
+-Newline set as default expression delimiter;
+-Quit character now is working (again xD);
+
+		Version 0.4 Beta
+-Parser now works with strings instead of standard input;
+-End of expression assumed to be on Return;
+-Lots of bug fixes;
+-Code redability further improved;
+
+	Bugs Known
+-overflows are not being dealt with;
+-exponentials of negative numbers disabled, even trivial ones like ^1;

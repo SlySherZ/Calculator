@@ -1,0 +1,4 @@
+		HELP
+-write any expression you want with numbers, + - * / % ^ and functions(sin, cos, tan);
+-define (ex: x = 2) and use variables to save results. You can save expression results to them (ex x = 2 * 4);
+-use \command to access special options (\help and \patchnotes) supported;
